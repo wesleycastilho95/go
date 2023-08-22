@@ -12,7 +12,7 @@ Escreva uma descrição do seu projeto
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<docker run dockerwesleydocker/fullcycle>
+docker run dockerwesleydocker/fullcycle
 ```
 
 ## :soon: Implementação futura
